@@ -1,0 +1,722 @@
+[
+  {
+    "id": "PEI1",
+    "subjects": [
+      {
+        "subjectName": "Mathématiques",
+        "activities": [
+          {
+            "duration": 120,
+            "subject": "Mathématiques",
+            "sessionType": "cours"
+          },
+          {
+            "duration": 60,
+            "subject": "Mathématiques",
+            "sessionType": "cours"
+          },
+          {
+            "duration": 60,
+            "subject": "Mathématiques",
+            "sessionType": "cours"
+          }
+        ]
+      },
+      {
+        "subjectName": "Français (AL)",
+        "activities": [
+          {
+            "duration": 120,
+            "subject": "Français (AL)",
+            "sessionType": "cours"
+          },
+          {
+            "duration": 60,
+            "subject": "Français (AL)",
+            "sessionType": "cours"
+          },
+          {
+            "duration": 60,
+            "subject": "Français (AL)",
+            "sessionType": "cours"
+          }
+        ]
+      },
+      {
+        "subjectName": "Arabe (LL)",
+        "activities": [
+          {
+            "duration": 120,
+            "subject": "Arabe (LL)",
+            "sessionType": "cours"
+          },
+          {
+            "duration": 60,
+            "subject": "Arabe (LL)",
+            "sessionType": "cours"
+          }
+        ]
+      },
+      {
+        "subjectName": "Anglais (AL)",
+        "activities": [
+          {
+            "duration": 120,
+            "subject": "Anglais (AL)",
+            "sessionType": "cours"
+          },
+          {
+            "duration": 120,
+            "subject": "Anglais (AL)",
+            "sessionType": "cours"
+          },
+          {
+            "duration": 60,
+            "subject": "Anglais (AL)",
+            "sessionType": "cours"
+          }
+        ]
+      },
+      {
+        "subjectName": "Ind & Sté",
+        "activities": [
+          {
+            "duration": 60,
+            "subject": "Ind & Sté",
+            "sessionType": "cours"
+          },
+          {
+            "duration": 60,
+            "subject": "Ind & Sté",
+            "sessionType": "cours"
+          }
+        ]
+      },
+      {
+        "subjectName": "Biologie",
+        "activities": [
+          {
+            "duration": 60,
+            "subject": "Biologie",
+            "sessionType": "labo"
+          },
+          {
+            "duration": 60,
+            "subject": "Biologie",
+            "sessionType": "labo"
+          }
+        ]
+      },
+      {
+        "subjectName": "Phy-Chimie",
+        "activities": [
+          {
+            "duration": 60,
+            "subject": "Phy-Chimie",
+            "sessionType": "cours"
+          },
+          {
+            "duration": 60,
+            "subject": "Phy-Chimie",
+            "sessionType": "cours"
+          }
+        ]
+      },
+      {
+        "subjectName": "Design",
+        "activities": [
+          {
+            "duration": 120,
+            "subject": "Design",
+            "sessionType": "cours"
+          }
+        ]
+      },
+      {
+        "subjectName": "Arts",
+        "activities": [
+          {
+            "duration": 120,
+            "subject": "Arts",
+            "sessionType": "art"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "PEI2",
+    "subjects": [
+      {
+        "subjectName": "Mathématiques",
+        "activities": [
+          {
+            "duration": 120,
+            "subject": "Mathématiques",
+            "sessionType": "cours"
+          },
+          {
+            "duration": 60,
+            "subject": "Mathématiques",
+            "sessionType": "cours"
+          },
+          {
+            "duration": 60,
+            "subject": "Mathématiques",
+            "sessionType": "cours"
+          }
+        ]
+      },
+      {
+        "subjectName": "Français (AL)",
+        "activities": [
+          {
+            "duration": 120,
+            "subject": "Français (AL)",
+            "sessionType": "cours"
+          },
+          {
+            "duration": 60,
+            "subject": "Français (AL)",
+            "sessionType": "cours"
+          },
+          {
+            "duration": 60,
+            "subject": "Français (AL)",
+            "sessionType": "cours"
+          }
+        ]
+      },
+      {
+        "subjectName": "Arabe (LL)",
+        "activities": [
+          {
+            "duration": 120,
+            "subject": "Arabe (LL)",
+            "sessionType": "cours"
+          },
+          {
+            "duration": 60,
+            "subject": "Arabe (LL)",
+            "sessionType": "cours"
+          }
+        ]
+      },
+      {
+        "subjectName": "Anglais (AL)",
+        "activities": [
+          {
+            "duration": 120,
+            "subject": "Anglais (AL)",
+            "sessionType": "cours"
+          },
+          {
+            "duration": 120,
+            "subject": "Anglais (AL)",
+            "sessionType": "cours"
+          },
+          {
+            "duration": 60,
+            "subject": "Anglais (AL)",
+            "sessionType": "cours"
+          }
+        ]
+      },
+      {
+        "subjectName": "Ind & Sté",
+        "activities": [
+          {
+            "duration": 60,
+            "subject": "Ind & Sté",
+            "sessionType": "cours"
+          },
+          {
+            "duration": 60,
+            "subject": "Ind & Sté",
+            "sessionType": "cours"
+          }
+        ]
+      },
+      {
+        "subjectName": "Biologie",
+        "activities": [
+          {
+            "duration": 60,
+            "subject": "Biologie",
+            "sessionType": "labo"
+          },
+          {
+            "duration": 60,
+            "subject": "Biologie",
+            "sessionType": "labo"
+          }
+        ]
+      },
+      {
+        "subjectName": "Phy-Chimie",
+        "activities": [
+          {
+            "duration": 60,
+            "subject": "Phy-Chimie",
+            "sessionType": "cours"
+          },
+          {
+            "duration": 60,
+            "subject": "Phy-Chimie",
+            "sessionType": "cours"
+          }
+        ]
+      },
+      {
+        "subjectName": "Arts",
+        "activities": [
+          {
+            "duration": 120,
+            "subject": "Arts",
+            "sessionType": "art"
+          }
+        ]
+      },
+      {
+        "subjectName": "Design",
+        "activities": [
+          {
+            "duration": 120,
+            "subject": "Design",
+            "sessionType": "cours"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "PEI3",
+    "subjects": [
+      {
+        "subjectName": "Mathématiques",
+        "activities": [
+          {
+            "duration": 120,
+            "subject": "Mathématiques",
+            "sessionType": "cours"
+          },
+          {
+            "duration": 60,
+            "subject": "Mathématiques",
+            "sessionType": "cours"
+          },
+          {
+            "duration": 60,
+            "subject": "Mathématiques",
+            "sessionType": "cours"
+          }
+        ]
+      },
+      {
+        "subjectName": "Français (AL)",
+        "activities": [
+          {
+            "duration": 120,
+            "subject": "Français (AL)",
+            "sessionType": "cours"
+          },
+          {
+            "duration": 60,
+            "subject": "Français (AL)",
+            "sessionType": "cours"
+          },
+          {
+            "duration": 60,
+            "subject": "Français (AL)",
+            "sessionType": "cours"
+          }
+        ]
+      },
+      {
+        "subjectName": "Arabe (LL)",
+        "activities": [
+          {
+            "duration": 120,
+            "subject": "Arabe (LL)",
+            "sessionType": "cours"
+          },
+          {
+            "duration": 60,
+            "subject": "Arabe (LL)",
+            "sessionType": "cours"
+          }
+        ]
+      },
+      {
+        "subjectName": "Anglais (AL)",
+        "activities": [
+          {
+            "duration": 120,
+            "subject": "Anglais (AL)",
+            "sessionType": "cours"
+          },
+          {
+            "duration": 120,
+            "subject": "Anglais (AL)",
+            "sessionType": "cours"
+          },
+          {
+            "duration": 60,
+            "subject": "Anglais (AL)",
+            "sessionType": "cours"
+          }
+        ]
+      },
+      {
+        "subjectName": "Ind & Sté",
+        "activities": [
+          {
+            "duration": 60,
+            "subject": "Ind & Sté",
+            "sessionType": "cours"
+          },
+          {
+            "duration": 60,
+            "subject": "Ind & Sté",
+            "sessionType": "cours"
+          }
+        ]
+      },
+      {
+        "subjectName": "Biologie",
+        "activities": [
+          {
+            "duration": 60,
+            "subject": "Biologie",
+            "sessionType": "labo"
+          },
+          {
+            "duration": 60,
+            "subject": "Biologie",
+            "sessionType": "labo"
+          }
+        ]
+      },
+      {
+        "subjectName": "Phy-Chimie",
+        "activities": [
+          {
+            "duration": 60,
+            "subject": "Phy-Chimie",
+            "sessionType": "cours"
+          },
+          {
+            "duration": 60,
+            "subject": "Phy-Chimie",
+            "sessionType": "cours"
+          }
+        ]
+      },
+      {
+        "subjectName": "Arts",
+        "activities": [
+          {
+            "duration": 120,
+            "subject": "Arts",
+            "sessionType": "art"
+          }
+        ]
+      },
+      {
+        "subjectName": "Design",
+        "activities": [
+          {
+            "duration": 120,
+            "subject": "Design",
+            "sessionType": "cours"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "PEI4",
+    "subjects": [
+      {
+        "subjectName": "Mathématiques",
+        "activities": [
+          {
+            "duration": 120,
+            "subject": "Mathématiques",
+            "sessionType": "cours"
+          },
+          {
+            "duration": 120,
+            "subject": "Mathématiques",
+            "sessionType": "cours"
+          },
+          {
+            "duration": 60,
+            "subject": "Mathématiques",
+            "sessionType": "cours"
+          }
+        ]
+      },
+      {
+        "subjectName": "Français (AL)",
+        "activities": [
+          {
+            "duration": 120,
+            "subject": "Français (AL)",
+            "sessionType": "cours"
+          },
+          {
+            "duration": 60,
+            "subject": "Français (AL)",
+            "sessionType": "cours"
+          }
+        ]
+      },
+      {
+        "subjectName": "Arabe (LL)",
+        "activities": [
+          {
+            "duration": 120,
+            "subject": "Arabe (LL)",
+            "sessionType": "cours"
+          },
+          {
+            "duration": 60,
+            "subject": "Arabe (LL)",
+            "sessionType": "cours"
+          },
+          {
+            "duration": 60,
+            "subject": "Arabe (LL)",
+            "sessionType": "cours"
+          }
+        ]
+      },
+      {
+        "subjectName": "Anglais (AL)",
+        "activities": [
+          {
+            "duration": 120,
+            "subject": "Anglais (AL)",
+            "sessionType": "cours"
+          },
+          {
+            "duration": 60,
+            "subject": "Anglais (AL)",
+            "sessionType": "cours"
+          }
+        ]
+      },
+      {
+        "subjectName": "Biologie",
+        "activities": [
+          {
+            "duration": 60,
+            "subject": "Biologie",
+            "sessionType": "labo"
+          },
+          {
+            "duration": 60,
+            "subject": "Biologie",
+            "sessionType": "labo"
+          }
+        ]
+      },
+      {
+        "subjectName": "Phy-Chimie",
+        "activities": [
+          {
+            "duration": 120,
+            "subject": "Phy-Chimie",
+            "sessionType": "cours"
+          },
+          {
+            "duration": 60,
+            "subject": "Phy-Chimie",
+            "sessionType": "cours"
+          },
+          {
+            "duration": 60,
+            "subject": "Phy-Chimie",
+            "sessionType": "cours"
+          }
+        ]
+      },
+      {
+        "subjectName": "Informatique",
+        "activities": [
+          {
+            "duration": 120,
+            "subject": "Informatique",
+            "sessionType": "info"
+          }
+        ]
+      },
+      {
+        "subjectName": "G.E",
+        "activities": [
+          {
+            "duration": 60,
+            "subject": "G.E",
+            "sessionType": "cours"
+          }
+        ]
+      },
+      {
+        "subjectName": "Design",
+        "activities": [
+          {
+            "duration": 120,
+            "subject": "Design",
+            "sessionType": "cours"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "PEI5",
+    "subjects": [
+      {
+        "subjectName": "Mathématiques",
+        "activities": [
+          {
+            "duration": 120,
+            "subject": "Mathématiques",
+            "sessionType": "cours"
+          },
+          {
+            "duration": 120,
+            "subject": "Mathématiques",
+            "sessionType": "cours"
+          },
+          {
+            "duration": 60,
+            "subject": "Mathématiques",
+            "sessionType": "cours"
+          }
+        ]
+      },
+      {
+        "subjectName": "Français (AL)",
+        "activities": [
+          {
+            "duration": 120,
+            "subject": "Français (AL)",
+            "sessionType": "cours"
+          },
+          {
+            "duration": 60,
+            "subject": "Français (AL)",
+            "sessionType": "cours"
+          }
+        ]
+      },
+      {
+        "subjectName": "Arabe (LL)",
+        "activities": [
+          {
+            "duration": 120,
+            "subject": "Arabe (LL)",
+            "sessionType": "cours"
+          },
+          {
+            "duration": 60,
+            "subject": "Arabe (LL)",
+            "sessionType": "cours"
+          },
+          {
+            "duration": 60,
+            "subject": "Arabe (LL)",
+            "sessionType": "cours"
+          }
+        ]
+      },
+      {
+        "subjectName": "Anglais (AL)",
+        "activities": [
+          {
+            "duration": 120,
+            "subject": "Anglais (AL)",
+            "sessionType": "cours"
+          },
+          {
+            "duration": 60,
+            "subject": "Anglais (AL)",
+            "sessionType": "cours"
+          }
+        ]
+      },
+      {
+        "subjectName": "Biologie",
+        "activities": [
+          {
+            "duration": 60,
+            "subject": "Biologie",
+            "sessionType": "labo"
+          },
+          {
+            "duration": 60,
+            "subject": "Biologie",
+            "sessionType": "labo"
+          }
+        ]
+      },
+      {
+        "subjectName": "Phy-Chimie",
+        "activities": [
+          {
+            "duration": 60,
+            "subject": "Phy-Chimie",
+            "sessionType": "cours"
+          },
+          {
+            "duration": 60,
+            "subject": "Phy-Chimie",
+            "sessionType": "cours"
+          },
+          {
+            "duration": 120,
+            "subject": "Phy-Chimie",
+            "sessionType": "cours"
+          }
+        ]
+      },
+      {
+        "subjectName": "Design",
+        "activities": [
+          {
+            "duration": 120,
+            "subject": "Design",
+            "sessionType": "cours"
+          }
+        ]
+      },
+      {
+        "subjectName": "G.E",
+        "activities": [
+          {
+            "duration": 60,
+            "subject": "G.E",
+            "sessionType": "cours"
+          },
+          {
+            "duration": 60,
+            "subject": "G.E",
+            "sessionType": "cours"
+          }
+        ]
+      },
+      {
+        "subjectName": "Informatique",
+        "activities": [
+          {
+            "duration": 120,
+            "subject": "Informatique",
+            "sessionType": "info"
+          }
+        ]
+      }
+    ]
+  }
+]

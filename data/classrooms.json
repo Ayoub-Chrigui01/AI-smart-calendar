@@ -1,0 +1,62 @@
+[
+  {
+    "id": "Salle 1A",
+    "allowedSessionTypes": ["cours"]
+  },
+  {
+    "id": "Salle 1B",
+    "allowedSessionTypes": ["cours"]
+  },
+  {
+    "id": "Salle 2A",
+    "allowedSessionTypes": ["cours"]
+  },
+  {
+    "id": "Salle 2B",
+    "allowedSessionTypes": ["cours"]
+  },
+  {
+    "id": "Salle 3",
+    "allowedSessionTypes": ["cours"]
+  },
+  {
+    "id": "Salle 4A",
+    "allowedSessionTypes": ["cours"]
+  },
+  {
+    "id": "Salle 4B",
+    "allowedSessionTypes": ["cours"]
+  },
+  {
+    "id": "Salle 5",
+    "allowedSessionTypes": ["cours"]
+  },
+  {
+    "id": "Salle d'informatique 1",
+    "allowedSessionTypes": ["info"]
+  },
+  {
+    "id": "Salle d'informatique 2",
+    "allowedSessionTypes": ["info"]
+  },
+  {
+    "id": "Salle d'art",
+    "allowedSessionTypes": ["art"]
+  },
+  {
+    "id": "Labo 1",
+    "allowedSessionTypes": ["labo"]
+  },
+  {
+    "id": "Labo 2",
+    "allowedSessionTypes": ["labo"]
+  },
+  {
+    "id": "Terrain de sport A",
+    "allowedSessionTypes": ["terrain"]
+  },
+  {
+    "id": "Terrain de sport B",
+    "allowedSessionTypes": ["terrain"]
+  }
+]

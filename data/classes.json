@@ -1,0 +1,139 @@
+[
+  {
+    "id": "PEI1-A",
+    "classTypeId": "PEI1",
+    "teachers": {
+      "Mathématiques": "Rami Nouira",
+      "Français (AL)": "Noureddine Fatnassi",
+      "Arabe (LL)": "Meriem Mabrouk",
+      "Anglais (AL)": "Amani Ben Salma",
+      "Ind & Sté": "Nadia Mani",
+      "Biologie": "Ameni Lahouar",
+      "Phy-Chimie": "Mohamed Bouker",
+      "Design": "Yassmine Gaida",
+      "Arts": "Mouna Mkaouar",
+      "E.P.S": "Nadia Soualhi"
+    },
+    "preferredClassroom": "Salle 1A"
+  },
+  {
+    "id": "PEI1-B",
+    "classTypeId": "PEI1",
+    "teachers": {
+      "Mathématiques": "Rami Nouira",
+      "Français (AL)": "Noureddine Fatnassi",
+      "Arabe (LL)": "Meriem Mabrouk",
+      "Anglais (AL)": "Amani Ben Salma",
+      "Ind & Sté": "Nadia Mani",
+      "Biologie": "Ameni Lahouar",
+      "Phy-Chimie": "Mohamed Bouker",
+      "Design": "Yassmine Gaida",
+      "Arts": "Mouna Mkaouar",
+      "E.P.S": "Mohamed Seddik El Eroui"
+    },
+    "preferredClassroom": "Salle 1B"
+  },
+  {
+    "id": "PEI2-A",
+    "classTypeId": "PEI2",
+    "teachers": {
+      "Mathématiques": "Rami Nouira",
+      "Français (AL)": "Chimene Mahjoubi",
+      "Arabe (LL)": "Meriem Mabrouk",
+      "Anglais (AL)": "Jihen Zakhama",
+      "Ind & Sté": "Nadia Mani",
+      "Biologie": "Ameni Lahouar",
+      "Phy-Chimie": "Mohamed Bouker",
+      "Design": "Yassmine Gaida",
+      "Arts": "Mouna Mkaouar",
+      "E.P.S": "Nadia Soualhi"
+    },
+    "preferredClassroom": "Salle 2A"
+  },
+  {
+    "id": "PEI2-B",
+    "classTypeId": "PEI2",
+    "teachers": {
+      "Mathématiques": "Rami Nouira",
+      "Français (AL)": "Chimene Mahjoubi",
+      "Arabe (LL)": "Meriem Mabrouk",
+      "Anglais (AL)": "Jihen Zakhama",
+      "Ind & Sté": "Nadia Mani",
+      "Biologie": "Ameni Lahouar",
+      "Phy-Chimie": "Mohamed Bouker",
+      "Design": "Yassmine Gaida",
+      "Arts": "Mouna Mkaouar",
+      "E.P.S": "Mohamed Seddik El Eroui"
+    },
+    "preferredClassroom": "Salle 2B"
+  },
+  {
+    "id": "PEI3-A",
+    "classTypeId": "PEI3",
+    "teachers": {
+      "Mathématiques": "Rami Nouira",
+      "Français (AL)": "Faten Gaida",
+      "Arabe (LL)": "Emna Jamali",
+      "Anglais (AL)": "Nour Imen Sassi",
+      "Ind & Sté": "Nadia Mani",
+      "Biologie": "Ameni Lahouar",
+      "Phy-Chimie": "Mohamed Bouker",
+      "Design": "Said Ben Amor",
+      "Arts": "Mouna Mkaouar",
+      "E.P.S": "Mohamed Seddik El Eroui"
+    },
+    "preferredClassroom": "Salle 3"
+  },
+  {
+    "id": "PEI4-A",
+    "classTypeId": "PEI4",
+    "teachers": {
+      "Mathématiques": "Moez Ali",
+      "Français (AL)": "Faten Gaida",
+      "Arabe (LL)": "Emna Jamali",
+      "Anglais (AL)": "Nour Imen Sassi",
+      "Biologie": "Donia Mili",
+      "Phy-Chimie": "Faycel Bourguiba",
+      "Design": "Said Ben Amor",
+      "Arts": "Mouna Mkaouar",
+      "G.E": "Nouha Essedik",
+      "E.P.S": "Mohamed Seddik El Eroui",
+      "Informatique": "Adem Blel"
+    },
+    "preferredClassroom": "Salle 4A"
+  },
+  {
+    "id": "PEI4-B",
+    "classTypeId": "PEI4",
+    "teachers": {
+      "Mathématiques": "Moez Ali",
+      "Français (AL)": "Faten Gaida",
+      "Arabe (LL)": "Emna Jamali",
+      "Anglais (AL)": "Nour Imen Sassi",
+      "Biologie": "Donia Mili",
+      "Phy-Chimie": "Faycel Bourguiba",
+      "Design": "Said Ben Amor",
+      "G.E": "Nouha Essedik",
+      "E.P.S": "Mohamed Seddik El Eroui",
+      "Informatique": "Adem Blel"
+    },
+    "preferredClassroom": "Salle 4B"
+  },
+  {
+    "id": "PEI5-A",
+    "classTypeId": "PEI5",
+    "teachers": {
+      "Mathématiques": "Moez Ali",
+      "Français (AL)": "Faten Gaida",
+      "Arabe (LL)": "Emna Jamali",
+      "Anglais (AL)": "Nour Imen Sassi",
+      "Biologie": "Donia Mili",
+      "Phy-Chimie": "Faycel Bourguiba",
+      "Design": "Said Ben Amor",
+      "G.E": "Nouha Essedik",
+      "E.P.S": "Mohamed Seddik El Eroui",
+      "Informatique": "Adem Blel"
+    },
+    "preferredClassroom": "Salle 5"
+  }
+]

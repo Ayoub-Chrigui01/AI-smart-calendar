@@ -1,0 +1,15 @@
+{
+  "studyDays": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+  "studyHours": {
+    "start": "08:00",
+    "end": "15:00"
+  },
+  "breaks": [
+    {
+      "start": "12:00",
+      "end": "13:00"
+    }
+  ],
+  "timeSlot": 60,
+  "maxGaps": 0
+}

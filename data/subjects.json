@@ -1,0 +1,50 @@
+[
+  {
+    "id": "Mathématiques",
+    "preferredStartTimes": ["08:00", "09:00", "10:00", "11:00"]
+  },
+  {
+    "id": "Français (AL)",
+    "preferredStartTimes": []
+  },
+  {
+    "id": "Arabe (LL)",
+    "preferredStartTimes": []
+  },
+  {
+    "id": "Anglais (AL)",
+    "preferredStartTimes": []
+  },
+  {
+    "id": "Ind & Sté",
+    "preferredStartTimes": []
+  },
+  {
+    "id": "Biologie",
+    "preferredStartTimes": ["08:00", "09:00", "10:00", "11:00"]
+  },
+  {
+    "id": "Phy-Chimie",
+    "preferredStartTimes": ["08:00", "09:00", "10:00", "11:00"]
+  },
+  {
+    "id": "Design",
+    "preferredStartTimes": []
+  },
+  {
+    "id": "Arts",
+    "preferredStartTimes": []
+  },
+  {
+    "id": "E.P.S",
+    "preferredStartTimes": ["11:00", "14:00"]
+  },
+  {
+    "id": "Informatique",
+    "preferredStartTimes": []
+  },
+  {
+    "id": "G.E",
+    "preferredStartTimes": []
+  }
+]
